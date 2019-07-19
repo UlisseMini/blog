@@ -1,5 +1,5 @@
 # vi: set ts=2 sw=2 et
-baseURL = "https://example.com"
+baseURL = "https://ulissemini.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Uli's blog"
